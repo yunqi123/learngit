@@ -8,3 +8,5 @@ Create a new branch is quick
 Create a new brance is qulic and simple
 
 Create featruel branch
+
+Create a new branch dev, and change the file readme.txt
