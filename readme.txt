@@ -9,4 +9,7 @@ Create a new brance is qulic and simple
 
 Create featruel branch
 
+
 master changed the file readme.txt
+
+Created a new branch dev, and changed readme.txt
